@@ -6,7 +6,7 @@ require('dotenv').config({
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `techify_contentful`,
+    title: `Techify`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
